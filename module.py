@@ -10,7 +10,7 @@ print(sys.version)
 joke = pyjokes.get_joke()Q 
 print("jokes---->",joke)
 
-# Q.3 install an external module and use it to perform an operation of your interest?
+# Q. install an external module and use it to perform an operation of your interest?
 #Text To Speech ----------------------
 # import pyttsx3 
 engine = pyttsx3.init()
@@ -18,7 +18,7 @@ engine = pyttsx3.init()
 engine.say("Hello JUNAID sir")
 engine.runAndWait()
 
-# Q.4 WAP to print the contents of a directory using the os module,Search online for the function which does that?----------------
+# Q. WAP to print the contents of a directory using the os module,Search online for the function which does that?----------------
 
 # import os
 # specify the directory you want to list
