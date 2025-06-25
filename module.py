@@ -7,13 +7,14 @@ import sys
 # Jokes module--------------
 # import pyjokes
 print(sys.version)
-joke = pyjokes.get_joke()Q 
+joke = pyjokes.get_joke()
 print("jokes---->",joke)
 
 # Q. install an external module and use it to perform an operation of your interest?
 #Text To Speech ----------------------
 # import pyttsx3 
 engine = pyttsx3.init()
+
 # engine.say("I will speak this text")
 engine.say("Hello JUNAID sir")
 engine.runAndWait()

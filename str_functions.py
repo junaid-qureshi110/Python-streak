@@ -1,3 +1,6 @@
 name = "JunaiD"
- print(len(name))
- print(name)
+
+print(len(name))
+print(name.endswith("rry"))
+print(name.startswith("ha"))
+print(name.capitalize())
