@@ -7,7 +7,7 @@ import sys
 # Jokes module--------------
 # import pyjokes
 print(sys.version)
-joke = pyjokes.get_joke()
+joke = pyjokes.get_joke()Q 
 print("jokes---->",joke)
 
 # Q.3 install an external module and use it to perform an operation of your interest?
