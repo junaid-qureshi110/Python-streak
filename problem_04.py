@@ -42,7 +42,7 @@ print(marks)
 
 # Q.3 WAP to sum alist with 4 numbers
 
-number = [4, 2, 6, 10]
+num = [4, 2, 6, 10]
 
-print(sum(number))
+print(sum(num))
 
